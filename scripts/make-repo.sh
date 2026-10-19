@@ -62,6 +62,7 @@ echo "[4/4] 写 Release ..."
   printf 'Codename: ios\n'
   printf 'Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e\n'
   printf 'Components: main\n'
+  printf 'Icon: https://ikingrepo.github.io/AITweak/CydiaIcon128.png\n'
   printf 'Description: %s\n' "$DESC"
 } > Release
 
