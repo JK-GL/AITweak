@@ -33,7 +33,7 @@ for f in debs/*.deb; do
 
   {
     cat "$TMP/ctl/control"
-    printf 'Filename: %s\n' "$NAME"
+    printf 'Filename: debs/%s\n' "$NAME"
     printf 'Size: %s\n' "$SIZE"
     printf 'MD5sum: %s\n' "$MD5"
     printf 'SHA1: %s\n' "$SHA1"
