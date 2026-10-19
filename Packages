@@ -23,11 +23,12 @@ Description: 转转内悬浮筛机：自动遍历商品详情，按 iOS 系统�
 Maintainer: iKing
 Author: iKing
 Section: Tweaks
+Icon: file:///Library/MobileSubstrate/DynamicLibraries/ZZFilter.png
 SileoDepiction: https://ikingrepo.github.io/AITweak/depiction/com.zz.filter.json
 Filename: com.zz.filter_10.1.1_iphoneos-arm64e.deb
-Size: 343964
-MD5sum: 86871d7cca9e9374c1ddc5dd8bd17aa4
-SHA1: 9eab96d2b43f5b2ac436fdf17fa143fb1097c8fc
-SHA256: e389f463a48869ce005fef00ea62998fc5afe728d609cfeec1bd0248c6167503
+Size: 343800
+MD5sum: 2827437bbdf801465526cd6870185dc3
+SHA1: b7efe9b1396b16afb475970e16b150011dcf3614
+SHA256: 3e6f0bb9ba8d51645cad48bc250631296c20c503efa1039514ecc338f9338996
 Source: AI Tweak
 
