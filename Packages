@@ -1,0 +1,15 @@
+Package: com.zz.filter
+Name: 转转筛机
+Version: 10.1.1
+Architecture: iphoneos-arm64
+Description: 转转内悬浮筛机：自动遍历商品详情，按 iOS 系统版本范围精准筛选。悬浮球可拖动记忆位置；型号与容量均取自官方接口点选；支持版本范围（如 17.0~17.3.1）、官方筛选项分区遍历突破 900 条上限、并发可调、实时上屏、暂停继续取消；结果含系统版本容量电池充电次数机况，支持详情打开复制收藏并同步官方收藏。
+Maintainer: iKing
+Author: iKing
+Section: Tweaks
+Filename: com.zz.filter_10.1.1_iphoneos-arm64.deb
+Size: 344320
+MD5sum: 2a9c6c72183396c62d85e77928698260
+SHA1: 74fb17653284539e9aa82a26de717ee5da439da7
+SHA256: 1a25e3e6b9f5ee3b187b638d2db93c9b75e40c8a4a2de53b374ae3bad336e6b5
+Source: AI Tweak
+
