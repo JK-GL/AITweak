@@ -1,30 +1,32 @@
 Package: com.zz.filter
-Name: 转转筛机
+Name: ZZIOSieve
 Version: 10.1.1
 Architecture: iphoneos-arm64
-Description: 转转内悬浮筛机：自动遍历商品详情，按 iOS 系统版本范围精准筛选。悬浮球可拖动记忆位置；型号与容量均取自官方接口点选；支持版本范围（如 17.0~17.3.1）、官方筛选项分区遍历突破 900 条上限、并发可调、实时上屏、暂停继续取消；结果含系统版本容量电池充电次数机况，支持详情打开复制收藏并同步官方收藏。
+Description: 转转内悬浮筛机：自动遍历商品详情，按 iOS 系统版本号精准筛选。型号与容量均取自官方接口点选，支持版本范围（如 17.0~17.3.1），按官方筛选项分区遍历突破 900 条上限，并发可调、实时上屏、可暂停继续取消；结果含系统版本容量电池充电次数机况，支持打开复制收藏并同步官方收藏。
 Maintainer: iKing
 Author: iKing
 Section: Tweaks
+SileoDepiction: https://ikingrepo.github.io/AITweak/depiction/com.zz.filter.json
 Filename: com.zz.filter_10.1.1_iphoneos-arm64.deb
-Size: 344320
-MD5sum: 2a9c6c72183396c62d85e77928698260
-SHA1: 74fb17653284539e9aa82a26de717ee5da439da7
-SHA256: 1a25e3e6b9f5ee3b187b638d2db93c9b75e40c8a4a2de53b374ae3bad336e6b5
+Size: 343752
+MD5sum: 9028f40519d5649989cc74fb367c8cb1
+SHA1: 040fb78b93a3c9a96b0d937df246c45b554ca958
+SHA256: 8479a1d8d5facad5dfaa2b0d6194d64e0f17209c48c312f4f4bb9a07f2234baf
 Source: AI Tweak
 
 Package: com.zz.filter
-Name: 转转筛机
+Name: ZZIOSieve
 Version: 10.1.1
 Architecture: iphoneos-arm64e
-Description: 转转内悬浮筛机：自动遍历商品详情，按 iOS 系统版本范围精准筛选。悬浮球可拖动记忆位置；型号与容量均取自官方接口点选；支持版本范围（如 17.0~17.3.1）、官方筛选项分区遍历突破 900 条上限、并发可调、实时上屏、暂停继续取消；结果含系统版本容量电池充电次数机况，支持详情打开复制收藏并同步官方收藏。
+Description: 转转内悬浮筛机：自动遍历商品详情，按 iOS 系统版本号精准筛选。型号与容量均取自官方接口点选，支持版本范围（如 17.0~17.3.1），按官方筛选项分区遍历突破 900 条上限，并发可调、实时上屏、可暂停继续取消；结果含系统版本容量电池充电次数机况，支持打开复制收藏并同步官方收藏。
 Maintainer: iKing
 Author: iKing
 Section: Tweaks
+SileoDepiction: https://ikingrepo.github.io/AITweak/depiction/com.zz.filter.json
 Filename: com.zz.filter_10.1.1_iphoneos-arm64e.deb
-Size: 343936
-MD5sum: 420a44461be5b5254cb9d691035dbf91
-SHA1: 2da6210088b4920fb8002eba2b7e9cd9b39f50c2
-SHA256: c6f619c67d51040f3af71b10406fde162b53d7efcafbb62a89a216f4e28c8427
+Size: 343964
+MD5sum: 86871d7cca9e9374c1ddc5dd8bd17aa4
+SHA1: 9eab96d2b43f5b2ac436fdf17fa143fb1097c8fc
+SHA256: e389f463a48869ce005fef00ea62998fc5afe728d609cfeec1bd0248c6167503
 Source: AI Tweak
 
