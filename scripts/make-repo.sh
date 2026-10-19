@@ -6,8 +6,8 @@
 set -e
 cd "$(dirname "$0")/.."
 
-ORIGIN="AI King Repo"
-LABEL="AI King Repo"
+ORIGIN="AI Tweak"
+LABEL="AI Tweak"
 DESC="AI 生成的越狱插件源 · AI-generated jailbreak tweaks"
 
 TMP=$(mktemp -d)
