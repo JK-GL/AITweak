@@ -8,7 +8,7 @@ Author: iKing
 Section: Tweaks
 Icon: file:///Library/MobileSubstrate/DynamicLibraries/ZZFilter.png
 SileoDepiction: https://ikingrepo.github.io/AITweak/depiction/com.zz.filter.json
-Filename: com.zz.filter_10.1.1_iphoneos-arm64.deb
+Filename: debs/com.zz.filter_10.1.1_iphoneos-arm64.deb
 Size: 344652
 MD5sum: d17193aa2ec91220fa8fd318b4cf8f62
 SHA1: 2a5873d4f46599255d720ed6bb73240cb6aaee3d
@@ -25,7 +25,7 @@ Author: iKing
 Section: Tweaks
 Icon: file:///Library/MobileSubstrate/DynamicLibraries/ZZFilter.png
 SileoDepiction: https://ikingrepo.github.io/AITweak/depiction/com.zz.filter.json
-Filename: com.zz.filter_10.1.1_iphoneos-arm64e.deb
+Filename: debs/com.zz.filter_10.1.1_iphoneos-arm64e.deb
 Size: 343800
 MD5sum: 2827437bbdf801465526cd6870185dc3
 SHA1: b7efe9b1396b16afb475970e16b150011dcf3614

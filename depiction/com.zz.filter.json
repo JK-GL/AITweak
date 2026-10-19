@@ -34,17 +34,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "信息"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "作者",
-          "text": "iKing"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "版本",
-          "text": "10.1.1"
+          "title": "兼容性"
         },
         {
           "class": "DepictionTableTextView",
@@ -58,8 +48,13 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "最后更新",
-          "text": "2026-10-20"
+          "title": "作者",
+          "text": "iKing"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "10.1.1"
         }
       ]
     }
