@@ -1,0 +1,92 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{207, 422}",
+          "screenshots": [
+            {
+              "url": "https://ikingrepo.github.io/AITweak/shots/shot1.png",
+              "accessibilityText": "搜索页"
+            },
+            {
+              "url": "https://ikingrepo.github.io/AITweak/shots/shot2.png",
+              "accessibilityText": "结果页"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "#### 转转筛机\n按 iOS 系统版本号，在海量二手商品里精准捞机。"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "主要功能"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- **型号与容量**：均取自官方接口，点选即用，无需手输\n- **版本范围**：支持 17.0 ~ 17.3.1 这类区间筛选\n- **全量遍历**：按官方筛选项分区（颜色 × 排序）跑，突破单查询 900 条上限\n- **并发可调**：1~8 路并发，实时上屏，可暂停 / 继续 / 取消\n- **详情齐全**：系统版本、容量、电池、充电次数、机况一览\n- **一键操作**：打开 / 复制 / 收藏，收藏自动同步官方账号"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "使用说明"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "1. 安装后重启转转\n2. 屏幕边缘出现小熊悬浮球，可拖动、自动记忆位置\n3. 点击悬浮球打开面板\n4. 选择型号与容量 → 填版本范围 → 点开始搜索\n5. 面板右上角 ✕ 只收起面板，后台继续跑"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "兼容性"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "支持系统",
+          "text": "iOS 15.0 及以上"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "支持架构",
+          "text": "无根 / 隐根 自动识别"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "适用应用",
+          "text": "转转 com.wuba.zhuanzhuan"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "信息"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "作者",
+          "text": "iKing"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "10.1.1"
+        }
+      ]
+    }
+  ]
+}
