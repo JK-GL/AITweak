@@ -5,5 +5,5 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Icon: https://ikingrepo.github.io/AITweak/CydiaIcon128.png
+Icon: https://ikingrepo.github.io/AITweak/CydiaIcon.png
 Description: AI 生成的越狱插件源 · AI-generated jailbreak tweaks
